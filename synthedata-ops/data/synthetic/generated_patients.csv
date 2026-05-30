@@ -1,0 +1,1001 @@
+Age,Surgeries_past,Lifestyle_habit,Exposure_chemicals,prognosis
+28,Yes,Exercise routine,No,Respiratory Condition
+32,Yes,Alcohol consumable,Yes,Healthy
+23,Yes,Sedentary,Yes,Healthy
+50,Yes,Smoking,No,Respiratory Condition
+23,No,Exercise routine,Yes,Respiratory Condition
+32,No,Exercise routine,Yes,Healthy
+32,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,No,Healthy
+23,No,Exercise routine,Yes,Cardiovascular Risk
+28,Yes,Alcohol consumable,Yes,Healthy
+50,No,Exercise routine,Yes,Healthy
+28,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Smoking,No,Cardiovascular Risk
+23,Yes,Exercise routine,Yes,Healthy
+28,No,Smoking,No,Healthy
+23,No,Exercise routine,No,Healthy
+32,No,Alcohol consumable,Yes,Healthy
+45,No,Exercise routine,Yes,Healthy
+45,No,Alcohol consumable,Yes,Healthy
+32,No,Sedentary,No,Healthy
+23,No,Smoking,Yes,Healthy
+50,Yes,Alcohol consumable,No,Cardiovascular Risk
+32,No,Exercise routine,No,Cardiovascular Risk
+23,Yes,Alcohol consumable,No,Healthy
+32,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Respiratory Condition
+50,No,Smoking,No,Healthy
+23,No,Exercise routine,No,Cardiovascular Risk
+28,Yes,Alcohol consumable,Yes,Healthy
+32,No,Sedentary,Yes,Respiratory Condition
+28,Yes,Smoking,Yes,Respiratory Condition
+32,No,Exercise routine,No,Healthy
+45,No,Exercise routine,Yes,Respiratory Condition
+45,No,Smoking,Yes,Respiratory Condition
+23,No,Exercise routine,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,No,Healthy
+45,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Alcohol consumable,Yes,Respiratory Condition
+28,No,Alcohol consumable,No,Cardiovascular Risk
+28,No,Alcohol consumable,No,Cardiovascular Risk
+28,Yes,Exercise routine,No,Cardiovascular Risk
+28,Yes,Alcohol consumable,No,Healthy
+32,No,Sedentary,Yes,Healthy
+32,No,Exercise routine,Yes,Respiratory Condition
+28,No,Exercise routine,Yes,Respiratory Condition
+32,Yes,Alcohol consumable,Yes,Respiratory Condition
+45,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Exercise routine,Yes,Healthy
+28,No,Smoking,Yes,Cardiovascular Risk
+23,No,Exercise routine,Yes,Healthy
+50,No,Sedentary,Yes,Respiratory Condition
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Exercise routine,No,Cardiovascular Risk
+45,No,Alcohol consumable,No,Healthy
+23,No,Exercise routine,Yes,Cardiovascular Risk
+23,No,Sedentary,Yes,Cardiovascular Risk
+50,Yes,Smoking,Yes,Respiratory Condition
+32,Yes,Alcohol consumable,No,Cardiovascular Risk
+28,No,Sedentary,Yes,Cardiovascular Risk
+28,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Alcohol consumable,Yes,Respiratory Condition
+50,No,Exercise routine,Yes,Healthy
+28,No,Smoking,No,Healthy
+23,Yes,Alcohol consumable,Yes,Healthy
+32,No,Smoking,No,Cardiovascular Risk
+45,No,Exercise routine,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Alcohol consumable,No,Healthy
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+32,No,Exercise routine,No,Healthy
+23,Yes,Exercise routine,No,Healthy
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,Yes,Sedentary,Yes,Healthy
+23,Yes,Smoking,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Healthy
+32,Yes,Smoking,Yes,Healthy
+28,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Alcohol consumable,Yes,Cardiovascular Risk
+32,No,Exercise routine,Yes,Respiratory Condition
+50,No,Exercise routine,No,Cardiovascular Risk
+28,No,Exercise routine,Yes,Healthy
+23,Yes,Smoking,No,Cardiovascular Risk
+45,Yes,Exercise routine,Yes,Cardiovascular Risk
+32,No,Exercise routine,No,Cardiovascular Risk
+45,Yes,Alcohol consumable,No,Cardiovascular Risk
+32,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,No,Exercise routine,No,Cardiovascular Risk
+50,No,Exercise routine,No,Respiratory Condition
+45,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Smoking,Yes,Healthy
+45,No,Exercise routine,No,Healthy
+23,No,Smoking,Yes,Healthy
+23,Yes,Alcohol consumable,Yes,Respiratory Condition
+23,Yes,Smoking,Yes,Respiratory Condition
+50,Yes,Smoking,Yes,Respiratory Condition
+28,No,Exercise routine,Yes,Cardiovascular Risk
+23,No,Exercise routine,No,Healthy
+28,Yes,Smoking,Yes,Respiratory Condition
+32,No,Smoking,Yes,Respiratory Condition
+23,Yes,Alcohol consumable,Yes,Healthy
+32,Yes,Alcohol consumable,Yes,Healthy
+23,No,Smoking,Yes,Healthy
+23,Yes,Smoking,Yes,Healthy
+50,No,Exercise routine,Yes,Healthy
+50,No,Smoking,Yes,Healthy
+23,No,Alcohol consumable,Yes,Respiratory Condition
+28,No,Smoking,Yes,Healthy
+32,Yes,Smoking,Yes,Healthy
+50,Yes,Alcohol consumable,Yes,Respiratory Condition
+28,No,Smoking,Yes,Respiratory Condition
+45,No,Exercise routine,Yes,Cardiovascular Risk
+32,No,Alcohol consumable,No,Healthy
+23,No,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Smoking,Yes,Cardiovascular Risk
+32,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Sedentary,No,Healthy
+28,No,Smoking,No,Healthy
+50,Yes,Smoking,Yes,Healthy
+45,No,Exercise routine,No,Healthy
+28,No,Smoking,Yes,Healthy
+50,No,Exercise routine,Yes,Healthy
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Smoking,Yes,Healthy
+45,No,Alcohol consumable,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+23,Yes,Smoking,Yes,Cardiovascular Risk
+50,Yes,Smoking,No,Healthy
+28,Yes,Alcohol consumable,No,Cardiovascular Risk
+32,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,No,Exercise routine,No,Respiratory Condition
+32,No,Exercise routine,Yes,Respiratory Condition
+50,No,Exercise routine,Yes,Healthy
+28,No,Alcohol consumable,No,Cardiovascular Risk
+28,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Smoking,No,Cardiovascular Risk
+32,Yes,Exercise routine,No,Respiratory Condition
+32,No,Smoking,Yes,Respiratory Condition
+50,No,Exercise routine,Yes,Healthy
+23,Yes,Exercise routine,Yes,Cardiovascular Risk
+50,No,Smoking,No,Cardiovascular Risk
+32,Yes,Sedentary,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Cardiovascular Risk
+28,Yes,Exercise routine,No,Cardiovascular Risk
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Healthy
+28,No,Alcohol consumable,No,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Healthy
+32,No,Smoking,Yes,Cardiovascular Risk
+50,No,Sedentary,No,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Healthy
+45,No,Alcohol consumable,Yes,Healthy
+23,Yes,Sedentary,Yes,Respiratory Condition
+45,No,Sedentary,Yes,Respiratory Condition
+28,No,Exercise routine,Yes,Healthy
+45,No,Alcohol consumable,No,Cardiovascular Risk
+28,No,Smoking,No,Healthy
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Exercise routine,No,Healthy
+28,No,Alcohol consumable,Yes,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Healthy
+45,No,Alcohol consumable,Yes,Healthy
+23,Yes,Smoking,Yes,Respiratory Condition
+23,No,Exercise routine,No,Healthy
+50,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,Yes,Alcohol consumable,Yes,Healthy
+23,No,Exercise routine,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Healthy
+32,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Healthy
+50,No,Exercise routine,No,Cardiovascular Risk
+45,No,Smoking,Yes,Healthy
+50,Yes,Smoking,Yes,Cardiovascular Risk
+45,No,Alcohol consumable,No,Healthy
+45,No,Sedentary,Yes,Respiratory Condition
+50,No,Exercise routine,Yes,Respiratory Condition
+45,Yes,Exercise routine,Yes,Respiratory Condition
+45,No,Alcohol consumable,No,Cardiovascular Risk
+28,No,Smoking,No,Cardiovascular Risk
+32,Yes,Exercise routine,No,Cardiovascular Risk
+45,Yes,Smoking,Yes,Respiratory Condition
+28,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Exercise routine,No,Cardiovascular Risk
+23,Yes,Exercise routine,Yes,Respiratory Condition
+23,No,Alcohol consumable,Yes,Respiratory Condition
+50,Yes,Alcohol consumable,No,Healthy
+28,Yes,Alcohol consumable,Yes,Healthy
+23,Yes,Alcohol consumable,No,Healthy
+45,No,Smoking,Yes,Cardiovascular Risk
+50,Yes,Smoking,Yes,Cardiovascular Risk
+23,Yes,Exercise routine,Yes,Respiratory Condition
+50,No,Smoking,No,Cardiovascular Risk
+45,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+50,Yes,Sedentary,No,Cardiovascular Risk
+45,No,Alcohol consumable,Yes,Healthy
+23,Yes,Alcohol consumable,Yes,Healthy
+50,No,Alcohol consumable,No,Healthy
+45,No,Smoking,Yes,Healthy
+28,Yes,Sedentary,Yes,Healthy
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,No,Cardiovascular Risk
+50,Yes,Exercise routine,No,Cardiovascular Risk
+32,Yes,Smoking,Yes,Respiratory Condition
+45,No,Exercise routine,Yes,Healthy
+45,No,Exercise routine,Yes,Healthy
+23,No,Exercise routine,Yes,Healthy
+50,Yes,Alcohol consumable,Yes,Healthy
+50,Yes,Exercise routine,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Sedentary,No,Healthy
+45,No,Smoking,Yes,Healthy
+32,Yes,Exercise routine,No,Healthy
+32,No,Exercise routine,Yes,Healthy
+32,Yes,Alcohol consumable,Yes,Healthy
+50,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,Yes,Smoking,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,No,Exercise routine,No,Healthy
+23,No,Alcohol consumable,Yes,Respiratory Condition
+23,Yes,Smoking,No,Healthy
+23,No,Exercise routine,Yes,Healthy
+23,No,Alcohol consumable,Yes,Healthy
+28,No,Sedentary,No,Cardiovascular Risk
+23,Yes,Sedentary,Yes,Cardiovascular Risk
+28,No,Sedentary,Yes,Cardiovascular Risk
+50,No,Sedentary,No,Cardiovascular Risk
+23,No,Exercise routine,Yes,Cardiovascular Risk
+23,Yes,Exercise routine,No,Cardiovascular Risk
+50,No,Smoking,Yes,Healthy
+50,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+32,No,Alcohol consumable,No,Cardiovascular Risk
+50,No,Alcohol consumable,Yes,Healthy
+45,Yes,Alcohol consumable,No,Cardiovascular Risk
+50,Yes,Exercise routine,Yes,Healthy
+45,No,Smoking,Yes,Cardiovascular Risk
+28,Yes,Alcohol consumable,No,Respiratory Condition
+45,No,Exercise routine,Yes,Respiratory Condition
+45,Yes,Alcohol consumable,No,Cardiovascular Risk
+23,Yes,Exercise routine,No,Healthy
+45,Yes,Alcohol consumable,No,Healthy
+32,No,Alcohol consumable,No,Healthy
+32,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Cardiovascular Risk
+45,Yes,Smoking,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Smoking,No,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Respiratory Condition
+45,No,Alcohol consumable,No,Cardiovascular Risk
+45,No,Exercise routine,Yes,Cardiovascular Risk
+32,Yes,Exercise routine,Yes,Healthy
+50,Yes,Alcohol consumable,No,Cardiovascular Risk
+45,No,Smoking,Yes,Cardiovascular Risk
+50,Yes,Sedentary,Yes,Cardiovascular Risk
+32,No,Alcohol consumable,No,Healthy
+32,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,Yes,Alcohol consumable,No,Healthy
+28,No,Alcohol consumable,No,Cardiovascular Risk
+28,Yes,Smoking,No,Healthy
+32,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Smoking,Yes,Respiratory Condition
+50,No,Exercise routine,Yes,Healthy
+50,Yes,Alcohol consumable,No,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Healthy
+28,No,Exercise routine,Yes,Healthy
+28,Yes,Exercise routine,No,Healthy
+28,No,Smoking,No,Respiratory Condition
+50,Yes,Smoking,Yes,Healthy
+28,No,Exercise routine,No,Cardiovascular Risk
+23,No,Smoking,No,Cardiovascular Risk
+50,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+23,Yes,Sedentary,Yes,Healthy
+32,No,Alcohol consumable,No,Healthy
+45,No,Smoking,No,Cardiovascular Risk
+23,Yes,Smoking,No,Cardiovascular Risk
+32,Yes,Exercise routine,Yes,Healthy
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+23,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,Yes,Healthy
+50,No,Alcohol consumable,Yes,Healthy
+32,No,Alcohol consumable,No,Respiratory Condition
+50,No,Alcohol consumable,Yes,Healthy
+23,No,Smoking,No,Cardiovascular Risk
+50,Yes,Alcohol consumable,No,Cardiovascular Risk
+45,No,Exercise routine,No,Respiratory Condition
+45,No,Alcohol consumable,Yes,Healthy
+32,No,Exercise routine,No,Healthy
+28,Yes,Exercise routine,Yes,Respiratory Condition
+23,No,Sedentary,No,Cardiovascular Risk
+45,No,Exercise routine,Yes,Healthy
+28,Yes,Exercise routine,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Exercise routine,No,Respiratory Condition
+23,No,Sedentary,No,Cardiovascular Risk
+50,No,Exercise routine,No,Healthy
+50,No,Smoking,No,Healthy
+23,No,Exercise routine,No,Respiratory Condition
+23,No,Sedentary,Yes,Cardiovascular Risk
+45,No,Smoking,Yes,Respiratory Condition
+32,Yes,Smoking,No,Healthy
+45,No,Alcohol consumable,No,Cardiovascular Risk
+50,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Sedentary,Yes,Healthy
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Exercise routine,No,Cardiovascular Risk
+50,No,Exercise routine,Yes,Healthy
+23,Yes,Exercise routine,Yes,Cardiovascular Risk
+32,No,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Alcohol consumable,Yes,Healthy
+32,No,Smoking,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Healthy
+50,Yes,Exercise routine,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+28,Yes,Alcohol consumable,No,Cardiovascular Risk
+32,Yes,Sedentary,Yes,Healthy
+50,Yes,Sedentary,No,Cardiovascular Risk
+28,No,Exercise routine,Yes,Respiratory Condition
+50,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+32,No,Alcohol consumable,Yes,Healthy
+50,No,Alcohol consumable,Yes,Respiratory Condition
+23,No,Exercise routine,Yes,Healthy
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+32,No,Sedentary,No,Respiratory Condition
+23,No,Exercise routine,Yes,Healthy
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Sedentary,No,Cardiovascular Risk
+32,Yes,Smoking,Yes,Healthy
+23,No,Sedentary,No,Respiratory Condition
+45,Yes,Exercise routine,No,Healthy
+45,Yes,Exercise routine,Yes,Healthy
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+28,No,Alcohol consumable,No,Respiratory Condition
+50,Yes,Sedentary,Yes,Healthy
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Exercise routine,No,Cardiovascular Risk
+50,No,Smoking,Yes,Cardiovascular Risk
+23,No,Exercise routine,No,Cardiovascular Risk
+45,No,Smoking,Yes,Healthy
+50,No,Smoking,Yes,Respiratory Condition
+28,No,Smoking,No,Cardiovascular Risk
+50,No,Smoking,Yes,Cardiovascular Risk
+23,No,Smoking,No,Cardiovascular Risk
+32,Yes,Smoking,Yes,Healthy
+50,No,Smoking,Yes,Healthy
+28,No,Exercise routine,No,Cardiovascular Risk
+50,No,Smoking,No,Healthy
+23,No,Sedentary,No,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Healthy
+28,No,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Alcohol consumable,Yes,Respiratory Condition
+45,Yes,Exercise routine,Yes,Healthy
+23,No,Smoking,Yes,Cardiovascular Risk
+50,No,Alcohol consumable,No,Healthy
+23,No,Exercise routine,No,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,No,Cardiovascular Risk
+45,No,Alcohol consumable,No,Healthy
+28,No,Exercise routine,Yes,Cardiovascular Risk
+23,No,Smoking,Yes,Respiratory Condition
+23,Yes,Smoking,Yes,Respiratory Condition
+50,Yes,Exercise routine,Yes,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Respiratory Condition
+50,Yes,Exercise routine,No,Cardiovascular Risk
+50,Yes,Smoking,No,Cardiovascular Risk
+23,No,Exercise routine,No,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Healthy
+28,Yes,Exercise routine,Yes,Healthy
+23,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Sedentary,Yes,Healthy
+50,No,Smoking,Yes,Healthy
+45,Yes,Exercise routine,Yes,Cardiovascular Risk
+28,No,Smoking,Yes,Healthy
+23,Yes,Alcohol consumable,Yes,Healthy
+50,Yes,Sedentary,No,Healthy
+45,No,Smoking,Yes,Cardiovascular Risk
+28,Yes,Exercise routine,Yes,Healthy
+32,Yes,Exercise routine,No,Healthy
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Healthy
+23,No,Exercise routine,Yes,Healthy
+50,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,No,Cardiovascular Risk
+32,No,Exercise routine,No,Respiratory Condition
+50,No,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Smoking,Yes,Healthy
+45,Yes,Sedentary,Yes,Healthy
+45,Yes,Smoking,Yes,Healthy
+23,No,Smoking,Yes,Cardiovascular Risk
+28,Yes,Exercise routine,No,Respiratory Condition
+28,No,Smoking,Yes,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Respiratory Condition
+50,No,Exercise routine,No,Healthy
+23,No,Sedentary,Yes,Healthy
+32,No,Smoking,No,Respiratory Condition
+50,No,Exercise routine,Yes,Healthy
+45,Yes,Smoking,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Respiratory Condition
+50,No,Sedentary,Yes,Healthy
+23,No,Alcohol consumable,No,Respiratory Condition
+28,No,Smoking,No,Healthy
+23,Yes,Smoking,Yes,Cardiovascular Risk
+45,Yes,Alcohol consumable,Yes,Healthy
+50,No,Sedentary,Yes,Healthy
+50,No,Smoking,No,Cardiovascular Risk
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+50,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Exercise routine,Yes,Healthy
+50,No,Exercise routine,No,Cardiovascular Risk
+45,Yes,Alcohol consumable,No,Cardiovascular Risk
+28,No,Sedentary,No,Cardiovascular Risk
+50,No,Sedentary,Yes,Respiratory Condition
+32,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Alcohol consumable,No,Healthy
+28,No,Smoking,Yes,Cardiovascular Risk
+23,No,Sedentary,No,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Healthy
+32,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Cardiovascular Risk
+50,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Sedentary,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Healthy
+45,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Respiratory Condition
+45,Yes,Alcohol consumable,Yes,Healthy
+45,No,Smoking,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Healthy
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Smoking,Yes,Cardiovascular Risk
+45,Yes,Smoking,Yes,Cardiovascular Risk
+28,Yes,Exercise routine,No,Respiratory Condition
+45,No,Smoking,No,Respiratory Condition
+45,Yes,Smoking,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Alcohol consumable,Yes,Healthy
+23,Yes,Smoking,Yes,Cardiovascular Risk
+23,Yes,Smoking,Yes,Respiratory Condition
+28,No,Alcohol consumable,Yes,Respiratory Condition
+23,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,No,Healthy
+50,No,Exercise routine,Yes,Healthy
+28,No,Exercise routine,Yes,Respiratory Condition
+45,No,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,Yes,Healthy
+45,Yes,Smoking,Yes,Healthy
+32,No,Exercise routine,Yes,Healthy
+45,Yes,Exercise routine,Yes,Respiratory Condition
+32,No,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Alcohol consumable,No,Healthy
+45,Yes,Sedentary,Yes,Healthy
+32,No,Sedentary,No,Healthy
+50,No,Alcohol consumable,Yes,Healthy
+23,No,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Exercise routine,No,Healthy
+45,No,Exercise routine,No,Respiratory Condition
+50,No,Sedentary,Yes,Respiratory Condition
+32,No,Smoking,Yes,Cardiovascular Risk
+28,No,Exercise routine,No,Cardiovascular Risk
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+32,Yes,Sedentary,Yes,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,No,Exercise routine,No,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Healthy
+28,Yes,Alcohol consumable,No,Cardiovascular Risk
+45,Yes,Sedentary,Yes,Respiratory Condition
+45,No,Smoking,No,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,Yes,Healthy
+50,No,Sedentary,Yes,Healthy
+45,No,Smoking,Yes,Cardiovascular Risk
+50,No,Alcohol consumable,No,Cardiovascular Risk
+45,No,Exercise routine,No,Cardiovascular Risk
+23,No,Smoking,No,Healthy
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,Yes,Smoking,Yes,Cardiovascular Risk
+50,No,Sedentary,No,Cardiovascular Risk
+45,No,Exercise routine,Yes,Respiratory Condition
+45,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,No,Smoking,No,Cardiovascular Risk
+23,No,Smoking,Yes,Healthy
+45,No,Exercise routine,No,Healthy
+28,Yes,Smoking,Yes,Healthy
+28,No,Sedentary,Yes,Cardiovascular Risk
+45,Yes,Smoking,No,Healthy
+45,No,Alcohol consumable,Yes,Healthy
+32,Yes,Alcohol consumable,Yes,Healthy
+23,No,Smoking,Yes,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+23,Yes,Smoking,No,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Smoking,No,Cardiovascular Risk
+32,Yes,Exercise routine,No,Cardiovascular Risk
+28,Yes,Smoking,Yes,Cardiovascular Risk
+32,No,Exercise routine,Yes,Healthy
+28,No,Exercise routine,No,Healthy
+28,No,Smoking,Yes,Healthy
+32,No,Smoking,Yes,Respiratory Condition
+23,Yes,Alcohol consumable,No,Healthy
+28,No,Smoking,No,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+23,Yes,Sedentary,Yes,Healthy
+50,No,Alcohol consumable,Yes,Respiratory Condition
+50,No,Sedentary,Yes,Respiratory Condition
+45,Yes,Exercise routine,No,Healthy
+45,No,Smoking,Yes,Respiratory Condition
+28,Yes,Exercise routine,Yes,Respiratory Condition
+28,No,Sedentary,No,Healthy
+32,No,Exercise routine,No,Respiratory Condition
+45,No,Alcohol consumable,Yes,Healthy
+28,No,Smoking,No,Cardiovascular Risk
+45,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Cardiovascular Risk
+45,No,Sedentary,Yes,Respiratory Condition
+45,No,Sedentary,No,Respiratory Condition
+28,No,Exercise routine,Yes,Cardiovascular Risk
+23,No,Sedentary,No,Respiratory Condition
+45,No,Alcohol consumable,Yes,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Smoking,Yes,Respiratory Condition
+32,No,Smoking,Yes,Cardiovascular Risk
+45,Yes,Alcohol consumable,Yes,Healthy
+28,No,Smoking,Yes,Cardiovascular Risk
+50,No,Exercise routine,Yes,Healthy
+50,Yes,Exercise routine,No,Respiratory Condition
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Alcohol consumable,No,Cardiovascular Risk
+28,No,Smoking,No,Healthy
+23,No,Exercise routine,Yes,Healthy
+32,No,Exercise routine,No,Respiratory Condition
+28,No,Exercise routine,Yes,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+32,No,Exercise routine,No,Healthy
+45,No,Exercise routine,Yes,Healthy
+23,No,Exercise routine,Yes,Respiratory Condition
+45,Yes,Exercise routine,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Healthy
+45,No,Exercise routine,No,Respiratory Condition
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Sedentary,No,Healthy
+45,No,Sedentary,Yes,Healthy
+28,Yes,Smoking,Yes,Healthy
+28,No,Sedentary,Yes,Healthy
+23,No,Sedentary,Yes,Cardiovascular Risk
+50,No,Exercise routine,No,Healthy
+50,No,Sedentary,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Healthy
+45,No,Smoking,No,Respiratory Condition
+23,Yes,Alcohol consumable,No,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+32,Yes,Sedentary,Yes,Healthy
+50,Yes,Smoking,No,Healthy
+45,Yes,Exercise routine,Yes,Healthy
+23,No,Exercise routine,Yes,Healthy
+23,Yes,Alcohol consumable,No,Cardiovascular Risk
+23,Yes,Smoking,Yes,Healthy
+45,No,Exercise routine,Yes,Respiratory Condition
+45,No,Exercise routine,Yes,Healthy
+50,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,No,Sedentary,Yes,Healthy
+32,No,Sedentary,Yes,Healthy
+32,No,Alcohol consumable,Yes,Respiratory Condition
+50,Yes,Smoking,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Cardiovascular Risk
+32,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,No,Sedentary,Yes,Healthy
+32,No,Sedentary,No,Cardiovascular Risk
+50,No,Smoking,Yes,Cardiovascular Risk
+23,No,Exercise routine,Yes,Respiratory Condition
+32,Yes,Exercise routine,Yes,Cardiovascular Risk
+32,No,Smoking,No,Cardiovascular Risk
+23,No,Exercise routine,No,Healthy
+45,Yes,Sedentary,Yes,Cardiovascular Risk
+32,Yes,Smoking,Yes,Respiratory Condition
+32,Yes,Smoking,Yes,Healthy
+45,No,Smoking,Yes,Healthy
+28,No,Sedentary,Yes,Cardiovascular Risk
+23,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Alcohol consumable,No,Respiratory Condition
+45,No,Exercise routine,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,No,Healthy
+50,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Sedentary,Yes,Cardiovascular Risk
+45,No,Exercise routine,No,Healthy
+50,No,Alcohol consumable,No,Healthy
+50,Yes,Alcohol consumable,No,Healthy
+28,Yes,Exercise routine,Yes,Healthy
+50,No,Exercise routine,No,Cardiovascular Risk
+32,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Sedentary,Yes,Cardiovascular Risk
+50,No,Exercise routine,Yes,Cardiovascular Risk
+28,Yes,Exercise routine,No,Healthy
+28,No,Alcohol consumable,No,Healthy
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Exercise routine,No,Healthy
+45,No,Alcohol consumable,Yes,Healthy
+23,No,Sedentary,No,Respiratory Condition
+32,No,Exercise routine,No,Healthy
+28,No,Smoking,Yes,Healthy
+45,Yes,Sedentary,No,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+32,Yes,Smoking,Yes,Healthy
+45,No,Sedentary,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,No,Cardiovascular Risk
+23,Yes,Smoking,Yes,Healthy
+28,Yes,Alcohol consumable,No,Healthy
+23,No,Exercise routine,Yes,Cardiovascular Risk
+50,No,Sedentary,Yes,Healthy
+45,Yes,Exercise routine,Yes,Healthy
+50,No,Sedentary,No,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Healthy
+50,No,Alcohol consumable,No,Healthy
+23,No,Exercise routine,Yes,Healthy
+23,No,Smoking,No,Healthy
+28,Yes,Exercise routine,Yes,Respiratory Condition
+45,No,Exercise routine,No,Cardiovascular Risk
+28,Yes,Smoking,No,Respiratory Condition
+23,Yes,Alcohol consumable,No,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Respiratory Condition
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Exercise routine,Yes,Cardiovascular Risk
+23,No,Smoking,No,Respiratory Condition
+28,Yes,Smoking,Yes,Healthy
+45,Yes,Smoking,Yes,Respiratory Condition
+28,Yes,Exercise routine,Yes,Respiratory Condition
+23,No,Smoking,No,Healthy
+32,No,Exercise routine,Yes,Healthy
+23,Yes,Sedentary,Yes,Healthy
+28,No,Sedentary,Yes,Respiratory Condition
+45,No,Exercise routine,No,Cardiovascular Risk
+23,No,Exercise routine,Yes,Healthy
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+32,No,Alcohol consumable,Yes,Healthy
+50,No,Smoking,Yes,Healthy
+32,No,Exercise routine,Yes,Healthy
+45,No,Sedentary,No,Respiratory Condition
+50,No,Exercise routine,Yes,Healthy
+45,No,Alcohol consumable,No,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Smoking,No,Cardiovascular Risk
+32,No,Smoking,Yes,Cardiovascular Risk
+45,No,Alcohol consumable,No,Healthy
+45,No,Smoking,Yes,Respiratory Condition
+32,Yes,Exercise routine,Yes,Healthy
+28,No,Alcohol consumable,No,Cardiovascular Risk
+50,Yes,Smoking,No,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+32,No,Sedentary,Yes,Healthy
+45,No,Smoking,Yes,Respiratory Condition
+32,No,Alcohol consumable,Yes,Cardiovascular Risk
+32,No,Alcohol consumable,Yes,Healthy
+23,No,Alcohol consumable,No,Cardiovascular Risk
+23,No,Sedentary,Yes,Cardiovascular Risk
+23,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,No,Respiratory Condition
+28,Yes,Alcohol consumable,No,Cardiovascular Risk
+28,No,Exercise routine,Yes,Healthy
+50,No,Smoking,No,Cardiovascular Risk
+23,Yes,Exercise routine,Yes,Healthy
+32,Yes,Alcohol consumable,Yes,Healthy
+45,Yes,Exercise routine,Yes,Respiratory Condition
+45,No,Smoking,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,No,Healthy
+50,No,Alcohol consumable,Yes,Healthy
+28,No,Exercise routine,Yes,Healthy
+32,Yes,Smoking,Yes,Healthy
+45,No,Alcohol consumable,Yes,Healthy
+32,Yes,Sedentary,No,Cardiovascular Risk
+23,No,Smoking,Yes,Cardiovascular Risk
+28,Yes,Smoking,Yes,Healthy
+50,No,Alcohol consumable,Yes,Respiratory Condition
+28,No,Exercise routine,Yes,Cardiovascular Risk
+23,Yes,Alcohol consumable,No,Respiratory Condition
+50,Yes,Sedentary,Yes,Healthy
+28,No,Sedentary,Yes,Healthy
+50,Yes,Smoking,Yes,Respiratory Condition
+45,Yes,Smoking,No,Respiratory Condition
+50,No,Alcohol consumable,No,Healthy
+45,No,Smoking,Yes,Cardiovascular Risk
+23,Yes,Exercise routine,Yes,Healthy
+23,No,Exercise routine,Yes,Healthy
+45,Yes,Smoking,Yes,Respiratory Condition
+50,No,Sedentary,Yes,Healthy
+23,Yes,Exercise routine,Yes,Healthy
+45,No,Exercise routine,No,Healthy
+28,No,Smoking,No,Cardiovascular Risk
+28,Yes,Exercise routine,Yes,Healthy
+45,No,Exercise routine,No,Cardiovascular Risk
+23,No,Smoking,No,Healthy
+45,Yes,Exercise routine,No,Respiratory Condition
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,No,Smoking,Yes,Cardiovascular Risk
+45,No,Smoking,Yes,Healthy
+28,Yes,Smoking,No,Respiratory Condition
+50,Yes,Sedentary,Yes,Respiratory Condition
+32,Yes,Exercise routine,Yes,Cardiovascular Risk
+28,No,Smoking,No,Healthy
+32,Yes,Exercise routine,Yes,Healthy
+32,Yes,Alcohol consumable,Yes,Respiratory Condition
+45,Yes,Sedentary,Yes,Healthy
+50,Yes,Sedentary,Yes,Cardiovascular Risk
+50,No,Alcohol consumable,No,Healthy
+50,No,Exercise routine,No,Cardiovascular Risk
+45,No,Exercise routine,Yes,Healthy
+28,No,Alcohol consumable,Yes,Healthy
+23,No,Alcohol consumable,Yes,Healthy
+23,Yes,Exercise routine,Yes,Healthy
+23,Yes,Exercise routine,Yes,Cardiovascular Risk
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+23,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Sedentary,Yes,Healthy
+45,Yes,Exercise routine,Yes,Healthy
+23,No,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Alcohol consumable,No,Respiratory Condition
+50,No,Alcohol consumable,Yes,Healthy
+50,Yes,Exercise routine,Yes,Healthy
+28,No,Exercise routine,Yes,Cardiovascular Risk
+32,Yes,Alcohol consumable,No,Cardiovascular Risk
+28,No,Exercise routine,No,Healthy
+28,Yes,Sedentary,No,Respiratory Condition
+50,No,Exercise routine,Yes,Healthy
+50,No,Alcohol consumable,No,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Respiratory Condition
+50,No,Alcohol consumable,No,Cardiovascular Risk
+28,No,Exercise routine,Yes,Healthy
+50,Yes,Exercise routine,Yes,Healthy
+32,No,Smoking,Yes,Healthy
+28,No,Exercise routine,No,Respiratory Condition
+50,Yes,Exercise routine,No,Cardiovascular Risk
+23,No,Sedentary,Yes,Cardiovascular Risk
+23,Yes,Sedentary,Yes,Healthy
+32,No,Exercise routine,No,Cardiovascular Risk
+23,No,Exercise routine,No,Healthy
+32,No,Alcohol consumable,Yes,Healthy
+45,Yes,Smoking,No,Cardiovascular Risk
+50,Yes,Smoking,No,Healthy
+28,No,Sedentary,Yes,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Respiratory Condition
+50,Yes,Sedentary,No,Healthy
+23,No,Alcohol consumable,Yes,Healthy
+32,Yes,Exercise routine,No,Cardiovascular Risk
+50,No,Smoking,Yes,Respiratory Condition
+32,No,Exercise routine,Yes,Respiratory Condition
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+32,Yes,Smoking,No,Healthy
+28,No,Smoking,Yes,Healthy
+23,Yes,Smoking,No,Healthy
+23,No,Exercise routine,No,Cardiovascular Risk
+50,No,Exercise routine,No,Healthy
+28,No,Smoking,No,Healthy
+45,No,Smoking,Yes,Healthy
+45,Yes,Smoking,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Healthy
+23,No,Alcohol consumable,No,Respiratory Condition
+23,No,Exercise routine,No,Healthy
+23,No,Alcohol consumable,No,Cardiovascular Risk
+28,No,Exercise routine,No,Healthy
+32,No,Exercise routine,No,Healthy
+45,No,Alcohol consumable,Yes,Healthy
+45,Yes,Exercise routine,No,Healthy
+28,No,Alcohol consumable,Yes,Healthy
+28,No,Alcohol consumable,No,Cardiovascular Risk
+45,No,Alcohol consumable,No,Healthy
+45,Yes,Smoking,No,Cardiovascular Risk
+45,No,Exercise routine,Yes,Healthy
+23,No,Sedentary,Yes,Healthy
+28,Yes,Exercise routine,Yes,Respiratory Condition
+23,No,Alcohol consumable,Yes,Healthy
+28,No,Exercise routine,Yes,Healthy
+50,No,Alcohol consumable,Yes,Healthy
+50,Yes,Smoking,No,Respiratory Condition
+23,No,Alcohol consumable,Yes,Healthy
+50,Yes,Smoking,No,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Exercise routine,Yes,Healthy
+23,No,Smoking,No,Healthy
+50,No,Smoking,No,Cardiovascular Risk
+23,Yes,Alcohol consumable,No,Cardiovascular Risk
+28,No,Alcohol consumable,No,Healthy
+28,Yes,Sedentary,No,Healthy
+23,Yes,Smoking,Yes,Healthy
+28,Yes,Alcohol consumable,Yes,Respiratory Condition
+45,Yes,Alcohol consumable,No,Healthy
+32,No,Exercise routine,No,Cardiovascular Risk
+28,No,Smoking,Yes,Cardiovascular Risk
+50,Yes,Smoking,No,Cardiovascular Risk
+45,Yes,Sedentary,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Healthy
+28,No,Exercise routine,No,Healthy
+50,Yes,Smoking,No,Cardiovascular Risk
+50,No,Sedentary,Yes,Cardiovascular Risk
+28,Yes,Alcohol consumable,Yes,Healthy
+23,Yes,Alcohol consumable,No,Cardiovascular Risk
+32,Yes,Smoking,Yes,Healthy
+28,No,Exercise routine,No,Respiratory Condition
+32,No,Smoking,Yes,Respiratory Condition
+32,No,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,Yes,Healthy
+23,Yes,Alcohol consumable,Yes,Respiratory Condition
+28,Yes,Alcohol consumable,Yes,Healthy
+50,No,Smoking,Yes,Healthy
+50,No,Alcohol consumable,No,Cardiovascular Risk
+50,No,Exercise routine,No,Cardiovascular Risk
+50,Yes,Exercise routine,No,Respiratory Condition
+28,Yes,Alcohol consumable,No,Cardiovascular Risk
+23,No,Exercise routine,Yes,Healthy
+50,No,Alcohol consumable,No,Cardiovascular Risk
+23,No,Exercise routine,No,Healthy
+45,Yes,Alcohol consumable,Yes,Respiratory Condition
+45,Yes,Exercise routine,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,No,Respiratory Condition
+45,No,Exercise routine,Yes,Healthy
+28,No,Sedentary,Yes,Cardiovascular Risk
+50,Yes,Alcohol consumable,Yes,Healthy
+45,No,Smoking,No,Cardiovascular Risk
+45,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,No,Sedentary,No,Cardiovascular Risk
+32,Yes,Alcohol consumable,Yes,Healthy
+32,No,Alcohol consumable,Yes,Healthy
+28,Yes,Smoking,No,Respiratory Condition
+23,Yes,Smoking,No,Cardiovascular Risk
+45,No,Smoking,Yes,Cardiovascular Risk
+28,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Smoking,Yes,Healthy
+45,No,Alcohol consumable,No,Respiratory Condition
+28,No,Alcohol consumable,Yes,Healthy
+50,No,Smoking,Yes,Cardiovascular Risk
+32,Yes,Smoking,Yes,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Respiratory Condition
+32,No,Alcohol consumable,No,Cardiovascular Risk
+45,Yes,Smoking,No,Cardiovascular Risk
+32,No,Exercise routine,Yes,Healthy
+50,Yes,Sedentary,Yes,Healthy
+28,No,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Exercise routine,Yes,Healthy
+45,No,Sedentary,No,Healthy
+50,No,Smoking,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Respiratory Condition
+45,No,Alcohol consumable,No,Healthy
+50,Yes,Smoking,Yes,Respiratory Condition
+45,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+50,Yes,Sedentary,Yes,Healthy
+23,No,Smoking,Yes,Cardiovascular Risk
+23,No,Exercise routine,No,Cardiovascular Risk
+28,No,Exercise routine,No,Respiratory Condition
+45,No,Exercise routine,Yes,Respiratory Condition
+32,No,Exercise routine,No,Healthy
+32,No,Exercise routine,Yes,Healthy
+28,No,Smoking,No,Cardiovascular Risk
+45,No,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Sedentary,Yes,Respiratory Condition
+45,Yes,Exercise routine,Yes,Healthy
+50,No,Sedentary,Yes,Respiratory Condition
+50,No,Sedentary,Yes,Healthy
+45,No,Smoking,Yes,Respiratory Condition
+28,No,Smoking,Yes,Healthy
+45,Yes,Smoking,Yes,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+28,No,Alcohol consumable,No,Healthy
+45,Yes,Alcohol consumable,Yes,Healthy
+50,Yes,Sedentary,No,Cardiovascular Risk
+45,No,Exercise routine,Yes,Healthy
+45,No,Sedentary,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,No,Cardiovascular Risk
+45,Yes,Sedentary,Yes,Cardiovascular Risk
+23,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Smoking,Yes,Cardiovascular Risk
+32,No,Smoking,Yes,Cardiovascular Risk
+45,No,Exercise routine,No,Healthy
+32,No,Smoking,Yes,Healthy
+23,No,Exercise routine,Yes,Healthy
+23,No,Exercise routine,Yes,Respiratory Condition
+32,No,Exercise routine,Yes,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+50,Yes,Smoking,Yes,Cardiovascular Risk
+23,Yes,Sedentary,No,Healthy
+32,Yes,Smoking,Yes,Healthy
+45,No,Sedentary,Yes,Respiratory Condition
+50,No,Smoking,Yes,Cardiovascular Risk
+50,No,Alcohol consumable,Yes,Cardiovascular Risk
+32,No,Exercise routine,Yes,Healthy
+45,No,Exercise routine,No,Cardiovascular Risk
+45,No,Smoking,Yes,Healthy
+23,Yes,Alcohol consumable,No,Healthy
+45,No,Exercise routine,No,Respiratory Condition
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+50,No,Smoking,Yes,Healthy
+28,Yes,Sedentary,Yes,Cardiovascular Risk
+45,No,Smoking,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,No,Healthy
+45,No,Exercise routine,No,Cardiovascular Risk
+28,No,Alcohol consumable,Yes,Healthy
+28,No,Exercise routine,No,Healthy
+50,No,Alcohol consumable,No,Cardiovascular Risk
+32,Yes,Exercise routine,Yes,Healthy
+28,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+45,Yes,Alcohol consumable,Yes,Healthy
+45,No,Exercise routine,Yes,Respiratory Condition
+28,No,Alcohol consumable,No,Healthy
+45,No,Exercise routine,Yes,Cardiovascular Risk
+23,No,Sedentary,Yes,Healthy
+50,No,Smoking,Yes,Healthy
+50,Yes,Exercise routine,Yes,Healthy
+23,No,Sedentary,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+45,Yes,Sedentary,Yes,Cardiovascular Risk
+23,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,No,Sedentary,Yes,Healthy
+50,No,Exercise routine,Yes,Healthy
+23,Yes,Alcohol consumable,No,Healthy
+28,No,Smoking,Yes,Cardiovascular Risk
+50,No,Exercise routine,No,Cardiovascular Risk
+23,No,Exercise routine,No,Cardiovascular Risk
+50,No,Smoking,Yes,Cardiovascular Risk
+45,Yes,Alcohol consumable,No,Cardiovascular Risk
+28,No,Exercise routine,No,Cardiovascular Risk
+28,No,Smoking,Yes,Healthy
+45,No,Exercise routine,Yes,Respiratory Condition
+32,Yes,Alcohol consumable,No,Healthy
+23,No,Smoking,Yes,Healthy
+28,No,Exercise routine,No,Healthy
+50,Yes,Smoking,Yes,Healthy
+28,Yes,Exercise routine,No,Cardiovascular Risk
+50,No,Exercise routine,Yes,Healthy
+45,Yes,Alcohol consumable,No,Healthy
+23,No,Smoking,Yes,Healthy
+23,Yes,Exercise routine,Yes,Healthy
+45,No,Exercise routine,Yes,Healthy
+23,No,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,Yes,Respiratory Condition
+23,No,Exercise routine,No,Healthy
+28,Yes,Alcohol consumable,No,Healthy
+28,Yes,Exercise routine,Yes,Cardiovascular Risk
+45,No,Exercise routine,No,Cardiovascular Risk
+23,No,Smoking,Yes,Cardiovascular Risk
+45,Yes,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Smoking,No,Healthy
+45,Yes,Smoking,Yes,Cardiovascular Risk
+45,No,Exercise routine,Yes,Healthy
+28,No,Alcohol consumable,Yes,Healthy
+28,No,Alcohol consumable,Yes,Healthy
+45,No,Alcohol consumable,No,Healthy
+45,No,Smoking,No,Healthy
+23,No,Smoking,Yes,Healthy
+50,No,Exercise routine,Yes,Respiratory Condition
+45,No,Alcohol consumable,No,Healthy
+32,No,Alcohol consumable,Yes,Cardiovascular Risk
+23,No,Smoking,Yes,Healthy
+45,No,Exercise routine,No,Cardiovascular Risk
+50,No,Alcohol consumable,No,Cardiovascular Risk
+23,No,Smoking,No,Cardiovascular Risk
+28,No,Exercise routine,No,Healthy
+32,No,Sedentary,No,Healthy
+23,No,Sedentary,No,Respiratory Condition
+23,No,Alcohol consumable,Yes,Healthy
+45,Yes,Exercise routine,Yes,Cardiovascular Risk
+23,Yes,Smoking,No,Cardiovascular Risk
+28,Yes,Alcohol consumable,Yes,Healthy
+45,Yes,Alcohol consumable,Yes,Cardiovascular Risk
+45,No,Exercise routine,No,Healthy
+50,No,Alcohol consumable,Yes,Cardiovascular Risk
+28,No,Exercise routine,No,Cardiovascular Risk
+23,Yes,Alcohol consumable,Yes,Respiratory Condition
+45,No,Alcohol consumable,Yes,Healthy
+23,No,Exercise routine,Yes,Cardiovascular Risk
+50,Yes,Sedentary,No,Healthy
+28,Yes,Smoking,Yes,Healthy
+50,No,Exercise routine,Yes,Cardiovascular Risk
+23,No,Exercise routine,Yes,Cardiovascular Risk
+23,Yes,Exercise routine,No,Respiratory Condition
+28,Yes,Sedentary,Yes,Cardiovascular Risk
+23,No,Alcohol consumable,No,Respiratory Condition
+50,No,Sedentary,Yes,Cardiovascular Risk
+32,Yes,Smoking,No,Respiratory Condition
+50,No,Smoking,Yes,Respiratory Condition
+28,No,Exercise routine,Yes,Cardiovascular Risk
+45,No,Exercise routine,Yes,Healthy
+32,Yes,Smoking,Yes,Healthy
+50,Yes,Alcohol consumable,Yes,Cardiovascular Risk
